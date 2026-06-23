@@ -12,7 +12,7 @@ This repository contains my Python learning exercises, practice programs, and mi
 ## Repository Structure
 
 ```text
-python-fundamentals/
+python_fundamentals/
 │
 ├── week01/
 ├── week02/
@@ -23,49 +23,59 @@ python-fundamentals/
 Each week contains:
 
 * Practice exercises
-* Small coding challenges
+* Coding challenges
 * Mini-projects
 
 ## Topics Covered
 
-* Variables and Data Types
+### Week 1
+
+* Variables
+* Data Types
+* Type Conversion
 * Operators
 * User Input
 * Conditional Statements
-* Loops
 * Functions
+* Modules
+* Loops
+* Break & Continue
+* Strings
 * Lists
+* Tuples
+* Sets
 * Dictionaries
-* File Handling
-* Object-Oriented Programming
+* Mean, Median & Mode
+* Variance & Standard Deviation
 
 ## Mini Projects
 
-Projects will be added throughout the learning journey, including:
-
-* Calculator
+* Greetings Program
+* Student Profile
+* Age Calculator
+* Variable Swapping
+* Eligibility Checker
+* Table Printer
 * Number Guessing Game
-* Student Grade Calculator
-* Contact Manager
-* Library Management System
+* Student Marks Analyzer
+* Variance & Standard Deviation Calculator
 
 ## Progress
 
-### Week 1
-
-* [ ] Variables
-* [ ] Data Types
-* [ ] Operators
-* [ ] User Input
+### Week 1 ✅ Completed
 
 ### Week 2
 
-* [ ] To be updated
+* In Progress
 
-## Learning Journey
+## Learning Journal
 
-I am documenting my progress separately in my ML Learning Journal repository, where I write about what I learned, challenges I faced, and my next steps.
+My daily learning reflections and progress logs are maintained in a separate ML Learning Journal repository.
 
----
+## Next Steps
 
-Started: June 2026
+* NumPy
+* Pandas
+* Data Visualization
+* Machine Learning Fundamentals
+* Deep Learning
