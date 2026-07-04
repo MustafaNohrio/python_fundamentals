@@ -48,7 +48,23 @@ Each week contains:
 * Mean, Median & Mode
 * Variance & Standard Deviation
 
+### Week 2
+
+* Default Arguments
+* *args and **kwargs
+* Variable Scope
+* Higher-Order Functions
+* Inner Functions
+* Lambda Functions
+* map(), filter() and reduce()
+* Exception Handling
+* File Handling
+* Arrays
+* Recursion
+
 ## Mini Projects
+
+### Week 1
 
 * Greetings Program
 * Student Profile
@@ -60,11 +76,20 @@ Each week contains:
 * Student Marks Analyzer
 * Variance & Standard Deviation Calculator
 
+### Week 2
+
+* Calculator (with Exception Handling and match/case)
+* Count to 10 using Recursion
+* Factorial using Recursion
+* Fibonacci using Recursion
+
 ## Progress
 
 ### Week 1 ✅ Completed
 
-### Week 2
+### Week 2 ✅ Completed
+
+### Week 3
 
 * In Progress
 
