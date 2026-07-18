@@ -62,6 +62,18 @@ Each week contains:
 * Arrays
 * Recursion
 
+### Week 3
+
+* Classes and Instances
+* Class Variables and Instance Variables
+* Class Methods and Static Methods
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+* Dunder (Magic) Methods
+* Property Decorators
+
 ## Mini Projects
 
 ### Week 1
@@ -83,19 +95,32 @@ Each week contains:
 * Factorial using Recursion
 * Fibonacci using Recursion
 
+### Week 3
+
+* Library Management System (separate repository — see below)
+
+## Standalone Projects
+
+**Library Management System**
+A command-line library system built using OOP and file handling.
+Manages books and members with save/load functionality.
+[github.com/MustafaNohrio/library-management-system](https://github.com/MustafaNohrio/library-management-system)
+
 ## Progress
 
 ### Week 1 ✅ Completed
 
 ### Week 2 ✅ Completed
 
-### Week 3
+### Week 3 ✅ Completed
 
-* In Progress
+### Week 4
+
+* In Progress — NumPy
 
 ## Learning Journal
 
-My daily learning reflections and progress logs are maintained in a separate ML Learning Journal repository.
+My daily learning reflections and progress logs are maintained in a separate [ML Learning Journal](https://github.com/MustafaNohrio/ml-learning-journal) repository.
 
 ## Next Steps
 
