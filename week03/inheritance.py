@@ -35,7 +35,7 @@ class manager(employee):  #inheriting the employee class
     def __init__(self, first, last, pay, employees=None):  #extra parameter >employees list supervised by manager 
         super().__init__(first, last, pay)   
         #when employee is passed as argument
-        if employee is None:
+        if employees is None:
             self.employees = [] #creating empty list
         else:
             self.employees = employees  #adding employee to 'employees' list
